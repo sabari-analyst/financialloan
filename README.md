@@ -22,4 +22,4 @@ This project aims to develop an interactive dashboard for analyzing financial lo
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/financial-loan-analysis.git
+   git clone https://github.com/sabari-analyst/financialloan.git
