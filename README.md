@@ -18,8 +18,3 @@ This project aims to develop an interactive dashboard for analyzing financial lo
 - **SQL:** For data querying and manipulation.
 - **Excel:** For data input and initial analysis.
 
-## Installation and Setup
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/sabari-analyst/financialloan.git
